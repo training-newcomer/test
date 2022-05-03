@@ -1,0 +1,192 @@
+{
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.variables": {
+    "lang": "ja",
+    "charset": "utf-8"
+  },
+  "emmet.includeLanguages": {
+    "ejs": "html"
+  },
+  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "vscode-icons",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.autoGuessEncoding": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.multiRootWorkspaceName": "",
+  "liveServer.settings.host": "localhost",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.inheritEnv": false,
+  "html.format.unformatted": null,
+  "html.format.wrapAttributes": "auto",
+  "html.format.wrapLineLength": 0,
+  "html.format.extraLiners": "null",
+  "html.format.preserveNewLines": true,
+  "html.format.maxPreserveNewLines": 1,
+  "vsicons.dontShowNewVersionMessage": true,
+  "beautify.language": {
+    "html": ["ejs", "html"]
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveSassCompile.settings.generateMap": true,
+  "workbench.editor.untitled.hint": "hidden",
+  "files.associations": {
+    "*.tpl": "html"
+  },
+  "css.validate": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.snippetSuggestions": "top",
+  "editor.suggestSelection": "first",
+  "editor.fontFamily": "SourceHanCodeJP-bold",
+  "editor.minimap.maxColumn": 80,
+  "editor.tokenColorCustomizations": {
+    "[ktrz-monokai]": {
+      "textMateRules": [
+        {
+          "scope": [
+            "comment",
+            "comment.block",
+            "comment.block.documentation",
+            "comment.line",
+            "constant",
+            "constant.character",
+            "constant.character.escape",
+            "constant.numeric",
+            "constant.numeric.integer",
+            "constant.numeric.float",
+            "constant.numeric.hex",
+            "constant.numeric.octal",
+            "constant.other",
+            "constant.regexp",
+            "constant.rgb-value",
+            "emphasis",
+            "entity",
+            "entity.name",
+            "entity.name.class",
+            "entity.name.function",
+            "entity.name.method",
+            "entity.name.section",
+            "entity.name.selector",
+            "entity.name.tag",
+            "entity.name.type",
+            "entity.other",
+            "entity.other.attribute-name",
+            "entity.other.inherited-class",
+            "invalid",
+            "invalid.deprecated",
+            "invalid.illegal",
+            "keyword",
+            "keyword.control",
+            "keyword.operator",
+            "keyword.operator.new",
+            "keyword.operator.assignment",
+            "keyword.operator.arithmetic",
+            "keyword.operator.logical",
+            "keyword.other",
+            "markup",
+            "markup.bold",
+            "markup.changed",
+            "markup.deleted",
+            "markup.heading",
+            "markup.inline.raw",
+            "markup.inserted",
+            "markup.italic",
+            "markup.list",
+            "markup.list.numbered",
+            "markup.list.unnumbered",
+            "markup.other",
+            "markup.quote",
+            "markup.raw",
+            "markup.underline",
+            "markup.underline.link",
+            "meta",
+            "meta.block",
+            "meta.cast",
+            "meta.class",
+            "meta.function",
+            "meta.function-call",
+            "meta.preprocessor",
+            "meta.return-type",
+            "meta.selector",
+            "meta.tag",
+            "meta.type.annotation",
+            "meta.type",
+            "punctuation.definition.string.begin",
+            "punctuation.definition.string.end",
+            "punctuation.separator",
+            "punctuation.separator.continuation",
+            "punctuation.terminator",
+            "storage",
+            "storage.modifier",
+            "storage.type",
+            "string",
+            "string.interpolated",
+            "string.other",
+            "string.quoted",
+            "string.quoted.double",
+            "string.quoted.other",
+            "string.quoted.single",
+            "string.quoted.triple",
+            "string.regexp",
+            "string.unquoted",
+            "strong",
+            "support",
+            "support.class",
+            "support.constant",
+            "support.function",
+            "support.other",
+            "support.type",
+            "support.type.property-name",
+            "support.variable",
+            "variable",
+            "variable.language",
+            "variable.name",
+            "variable.other",
+            "variable.other.readwrite",
+            "variable.parameter"
+          ],
+          "settings": {
+            "fontStyle": ""
+          }
+        }
+      ]
+    }
+  },
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
+  "bracketPairColorizer.depreciation-notice": false,
+  "workbench.colorTheme": "ktrz-monokai",
+  "workbench.preferredDarkColorTheme": "ktrz-monokai",
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": -1,
+  "sync.gist": "f7fb5695d8bc7ad7ded63c58b4d8c378"
+}
